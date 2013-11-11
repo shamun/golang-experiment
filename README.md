@@ -2,12 +2,21 @@
 
 > Personal playground about Golang
 
-## Note
+# Resources
 
-### [defer](http://golang.org/doc/articles/defer_panic_recover.html)
+### Core
 
-* Some interesting tips of defer in golang. [src](http://invalidlogic.com/2013/07/01/golang-tidbit-defer/)
+* [log](http://golang.org/pkg/log/)
+  * [Using The Log Package In Go](http://www.goinggo.net/2013/11/using-log-package-in-go.html)
 
-### Share
+### network/http
 
-* Internal Share about Golang. [slide](https://speakerdeck.com/ferrari/ready-and-go)
+* [goreq](https://github.com/franela/goreq) - A Simple, Sane HTTP Request Library for Go
+
+### database
+
+* Play redis with [redigo](https://github.com/garyburd/redigo), a simple demo by [Ralph](https://coderwall.com/p/unklzq)
+
+### util
+
+* Dump everything you need, easy for debugging! [spew](https://github.com/davecgh/go-spew)
