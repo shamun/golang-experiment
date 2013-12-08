@@ -8,6 +8,7 @@
 
 * [log](http://golang.org/pkg/log/)
   * [Using The Log Package In Go](http://www.goinggo.net/2013/11/using-log-package-in-go.html)
+* [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
 ### network/http
 
